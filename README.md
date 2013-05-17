@@ -20,6 +20,7 @@ Future Plans
 ---------
 
 -Stored song data in database or json file so it doesn't need to be rescanned each time. (Already have code partly written)
+
 -Song statistics
 
 Important Notes
@@ -30,7 +31,8 @@ I have not worked on musicr is a fairly long time and as such am unsure of any t
 Acknowledgements
 ---------
 
-Musicr uses Twitter Bootstrap, used under http://www.apache.org/licenses/LICENSE-2.0
+-Musicr uses Twitter Bootstrap, used under http://www.apache.org/licenses/LICENSE-2.0
 
+-Musicr uses Jquery, used under the MIT license.
 
 Note: I coded this for fun when I was bored.
